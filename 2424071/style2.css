@@ -1,0 +1,350 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 3044px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 3044px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/frame-13-1.png);
+  background-size: 100% 100%;
+}
+
+.desktop .view {
+  position: absolute;
+  width: 1238px;
+  height: 2192px;
+  top: 411px;
+  left: 101px;
+  background-color: #fffcf3;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: var(--5);
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1244px;
+  height: 742px;
+  top: 85px;
+  left: 95px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 388px;
+  height: 388px;
+  top: 0;
+  left: 0;
+  background-color: #868686;
+  background-image: url(./img/2025-07-21-22-57-50-1-1-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1244px;
+  height: 742px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 493px;
+  height: 250px;
+  top: 489px;
+  left: 0;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 202px;
+  height: 191px;
+  top: 3px;
+  left: 287px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "DotGothic16-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--5);
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 202px;
+  top: 51px;
+  left: 0;
+  font-family: "DotGothic16-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--5);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .cookie {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 772px;
+  height: 742px;
+  top: 0;
+  left: 472px;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 496px;
+  height: 250px;
+  top: 492px;
+  left: 57px;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 202px;
+  height: 121px;
+  top: 0;
+  left: 290px;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 452px;
+  height: 385px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-3 {
+  width: 403px;
+  top: 124px;
+  left: 23px;
+  color: #5d423c;
+  font-size: 32px;
+  position: absolute;
+  font-family: "DotGothic16-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 448px;
+  height: 99px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/2850-20250612172712-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .text-wrapper-4 {
+  width: 164px;
+  top: 16px;
+  left: 139px;
+  -webkit-text-stroke: 3px #ff8fa2;
+  color: #fff0f2;
+  font-size: 36px;
+  position: absolute;
+  font-family: "DotGothic16-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 324px;
+  height: 380px;
+  top: 331px;
+  left: 448px;
+  object-fit: cover;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 493px;
+  height: 250px;
+  top: 990px;
+  left: 93px;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 202px;
+  height: 156px;
+  top: 3px;
+  left: 287px;
+}
+
+.desktop .group-5 {
+  position: absolute;
+  width: 493px;
+  height: 250px;
+  top: 990px;
+  left: 625px;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 493px;
+  height: 249px;
+  top: 1407px;
+  left: 95px;
+}
+
+.desktop .group-6 {
+  position: absolute;
+  width: 493px;
+  height: 247px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 202px;
+  height: 154px;
+  top: 2px;
+  left: 287px;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 202px;
+  top: 49px;
+  left: 0;
+  font-family: "DotGothic16-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--5);
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 247px;
+  height: 247px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 247px;
+  height: 247px;
+  top: 2px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .overlap-9 {
+  position: absolute;
+  width: 493px;
+  height: 247px;
+  top: 1811px;
+  left: 95px;
+}
+
+.desktop .overlap-10 {
+  position: absolute;
+  width: 202px;
+  height: 156px;
+  top: 0;
+  left: 287px;
+}
+
+.desktop .element-2 {
+  position: absolute;
+  width: 247px;
+  height: 247px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .overlap-11 {
+  position: absolute;
+  width: 493px;
+  height: 247px;
+  top: 1407px;
+  left: 627px;
+}
+
+.desktop .overlap-12 {
+  position: absolute;
+  width: 202px;
+  height: 224px;
+  top: 2px;
+  left: 287px;
+}
+
+.desktop .element-3 {
+  position: absolute;
+  width: 247px;
+  height: 247px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 1440px;
+  height: 333px;
+  top: 2711px;
+  left: 0;
+}
+
+.desktop .element-4 {
+  position: absolute;
+  width: 1332px;
+  height: 282px;
+  top: 74px;
+  left: 62px;
+  object-fit: cover;
+}
+
+
+
+@font-face {
+  font-family: "DotGothic16-Regular";
+  src: url("fonts/DotGothic16-Regular.ttf") format("truetype");
+}
+
+.desktop {
+  font-family: "MyFont", sans-serif;
+}
